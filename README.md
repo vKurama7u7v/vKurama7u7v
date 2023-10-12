@@ -2,7 +2,7 @@
   🚀 Principal Stack
 </h3>
 
-[![NextJS](https://img.shields.io/badge/NextJS-999999?style=for-the-badge&logo=nextdotjs&logoColor=0000000&labelColor=212121)]()
+[![NextJS](https://img.shields.io/badge/NextJS-212121?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=212121)]()
 
 <!--
 <h1 align="center">Hi 👋, I'm Aurelio Marín Bautista</h1>
