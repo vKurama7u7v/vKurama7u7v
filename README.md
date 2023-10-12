@@ -70,4 +70,4 @@
   🎧 I love music! | Spotify Playing
 </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/playlist/3y6jjMewDLPFbNrCrvYChO?si=415390664ad14add)
