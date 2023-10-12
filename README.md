@@ -1,3 +1,8 @@
+<h1 align="center">Hola 👋, soy Aurelio Marín Bautista</h1>
+<h3 align="center">Soy un programador que adora los retos y que no se rinde fácilmente.</h3>
+
+</br>
+
 <h3>
   🚀 Principal Stack
 </h3>
@@ -18,6 +23,7 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=212121)]()
 [![Next.JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=212121)]()
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=212121)]()
+</br>
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=212121)]()
 
 <h4>Backend Development</h4>
@@ -35,8 +41,10 @@
 
 [![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white&labelColor=212121)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=212121)]()
+<!--
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=212121)]()
 [![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white&labelColor=212121)]()
+-->
 
 <h4>Tools & Technologies</h4>
 
@@ -44,18 +52,28 @@
 [![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=212121)]()
 [![Figma](https://img.shields.io/badge/Figma-EA4AAA?style=for-the-badge&logo=figma&logoColor=white&labelColor=212121)]()
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=212121)]()
+</br>
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=212121)]()
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=212121)]()
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=212121)]()
 
 <h3>
-  💬 Ask me about
+  💬 Información de Contacto
 </h3>
 
 [![Facebook](https://img.shields.io/badge/Facebook-@AurelioMB-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://web.facebook.com/profile.php?id=100007335257831)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aureliomb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismourehttps://www.linkedin.com/in/aureliomb/)
 [![Link](https://img.shields.io/badge/Link_Site-aureliomarin-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://aureliomarin.netlify.app/)
 
+<!--
+</br></br></br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkurama7u7v&theme=algolia" alt="vkurama7u7v" /></a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vkurama7u7v&show_icons=true&locale=en&layout=compact" alt="vkurama7u7v" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkurama7u7v&show_icons=true&locale=en" alt="vkurama7u7v" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkurama7u7v&" alt="vkurama7u7v" /></p>
+-->
 <!--
 <h1 align="center">Hi 👋, I'm Aurelio Marín Bautista</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
