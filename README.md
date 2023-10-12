@@ -62,9 +62,9 @@
   💬 Información de Contacto
 </h3>
 
+[![Link](https://img.shields.io/badge/Link_Site-aureliomarin-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://aureliomarin.netlify.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-@AurelioMB-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://web.facebook.com/profile.php?id=100007335257831)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aureliomb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/aureliomb/)
-[![Link](https://img.shields.io/badge/Link_Site-aureliomarin-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://aureliomarin.netlify.app/)
 
 
 </br>
