@@ -1,3 +1,8 @@
+<h3>
+  🚀 Principal Stack
+</h3>
+
+<!--
 <h1 align="center">Hi 👋, I'm Aurelio Marín Bautista</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
 
@@ -41,5 +46,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vkurama7u7v&show_icons=true&locale=en" alt="vkurama7u7v" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vkurama7u7v&" alt="vkurama7u7v" /></p>
-
-<!-- ADASD -->
+-->
