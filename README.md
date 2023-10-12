@@ -66,6 +66,12 @@
 [![Link](https://img.shields.io/badge/Link_Site-aureliomarin-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://aureliomarin.netlify.app/)
 
 
+<h3>
+  🎧 I love music! | Spotify Playing
+</h3>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&redirect=true)
+
 <!--
 </br></br></br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkurama7u7v&theme=algolia" alt="vkurama7u7v" /></a> </p>
