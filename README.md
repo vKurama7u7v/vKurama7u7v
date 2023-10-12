@@ -66,6 +66,7 @@
 [![Link](https://img.shields.io/badge/Link_Site-aureliomarin-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://aureliomarin.netlify.app/)
 
 
+</br>
 <h3>
   🎧 I love music! | Spotify Playing
 </h3>
