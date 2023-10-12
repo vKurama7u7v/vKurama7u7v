@@ -65,6 +65,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aureliomb-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismourehttps://www.linkedin.com/in/aureliomb/)
 [![Link](https://img.shields.io/badge/Link_Site-aureliomarin-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://aureliomarin.netlify.app/)
 
+
+#### 🎧 I love music! | Spotify Playing
+[<img src="https://spotify-now-playing-v-kurama7u7v.vercel.app/" alt="spotify playing" width="350" />]()
+
+
+
 <!--
 </br></br></br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vkurama7u7v&theme=algolia" alt="vkurama7u7v" /></a> </p>
