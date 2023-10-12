@@ -2,6 +2,8 @@
   🚀 Principal Stack
 </h3>
 
+[![NextJS](https://img.shields.io/badge/NextJS-999999?style=for-the-badge&logo=nextdotjs&logoColor=0000000&labelColor=212121)]()
+
 <!--
 <h1 align="center">Hi 👋, I'm Aurelio Marín Bautista</h1>
 <h3 align="center">A passionate frontend developer from México</h3>
