@@ -70,7 +70,7 @@
   🎧 I love music! | Spotify Playing
 </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-now-playing-v-kurama7u7v.vercel.app/)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&redirect=true)
 
 <!--
 </br></br></br>
