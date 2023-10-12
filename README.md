@@ -48,6 +48,11 @@
 [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=212121)]()
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=212121)]()
 
+<h3>
+  💬 Ask me about
+</h3>
+
+[![Facebook](https://img.shields.io/badge/Facebook-@AurelioMB-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://web.facebook.com/profile.php?id=100007335257831)
 
 <!--
 <h1 align="center">Hi 👋, I'm Aurelio Marín Bautista</h1>
