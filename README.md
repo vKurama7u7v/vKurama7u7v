@@ -2,7 +2,17 @@
   🚀 Principal Stack
 </h3>
 
-[![NextJS](https://img.shields.io/badge/NextJS-212121?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=212121)]()
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=212121)]()
+[![Express.JS](https://img.shields.io/badge/Express.JS-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=212121)]()
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white&labelColor=212121)]()
+[![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=212121)]()
+
+<h4>
+  Programming Languages
+</h4>
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=212121)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=212121)]()
 
 <!--
 <h1 align="center">Hi 👋, I'm Aurelio Marín Bautista</h1>
