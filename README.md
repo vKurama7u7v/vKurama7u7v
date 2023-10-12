@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Aurelio Marín Bautista</h1>
-<h3 align="center">Soy un programador que adora los retos y que no se rinde fácilmente.</h3>
+<h1>Hola 👋, soy Aurelio Marín Bautista</h1>
+<h3>Soy un programador que adora los retos y que no se rinde fácilmente.</h3>
 
 </br>
 
