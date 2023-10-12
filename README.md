@@ -4,7 +4,7 @@
 </br>
 
 <h3>
-  🚀 Principal Stack 
+  🚀 Principal Stack
 </h3>
 
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=212121)]()
