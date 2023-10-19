@@ -12,9 +12,9 @@
 
 <p align="center"> 
   <samp>
-    「 Soy un programador que adora los retos y que no se rinde fácilmente. 」
+    「 Soy un programador que adora los retos y que no se rinde fácilmente 」
   </samp>
-  <br><br>
+  <br>
 </p>
 <!--
 <h3 align="center">
