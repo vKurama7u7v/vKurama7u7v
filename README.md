@@ -73,3 +73,8 @@
 </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-now-playing-v-kurama7u7v.vercel.app/)
+
+<!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKurama7u7v&theme=shades_of_purple) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKurama7u7v&theme=shades_of_purple) 
+-->
