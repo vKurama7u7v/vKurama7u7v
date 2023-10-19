@@ -93,9 +93,12 @@
 
 </br>
 <h3>
-  🧑‍💻 Github Stats
+  ⚡️ Github Stats
 </h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vKurama7u7v&theme=shades_of_purple) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vKurama7u7v&theme=shades_of_purple) 
+
+<!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vKurama7u7v&theme=shades_of_purple) 
+-->
