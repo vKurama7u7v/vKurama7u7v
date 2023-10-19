@@ -5,8 +5,6 @@
 <h3>Soy un programador que adora los retos y que no se rinde fácilmente.</h3>
 -->
 <h1 align="center">
-  <br>
-  <br>
   <samp>&gt; Hola 👋!, soy
     <b><a target="_blank" href="https://bit.ly/aureliomarin">Aurelio Marín Bautista</a></b>
   </samp>
@@ -16,6 +14,7 @@
   <samp>
     「 Soy un programador que adora los retos y que no se rinde fácilmente. 」
   </samp>
+  <br><br>
 </p>
 <!--
 <h3 align="center">
