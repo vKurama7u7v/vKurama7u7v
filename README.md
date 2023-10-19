@@ -14,25 +14,10 @@
   <samp>
     「 Soy un programador que adora los retos y que no se rinde fácilmente 」
   </samp>
-  <br>
 </p>
-<!--
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://bit.ly/aureliomarin">Aurelio Marín Bautista</a></b>
-        </samp>
-</h3>
 
-<p align="center"> 
-  <samp>
-    「 Soy un programador que adora los retos y que no se rinde fácilmente. 」
-    <br>
-    <br>
-  </samp>
-</p>
--->
-
-</br>
+<br>
+<br>
 
 <h3>
   🚀 Principal Stack
