@@ -51,6 +51,7 @@
 <h4>CMS Development</h4>
 
 [![Strapi](https://img.shields.io/badge/Strapi-4945FF?style=for-the-badge&logo=strapi&logoColor=white&labelColor=212121)]()
+[![Contentful](https://img.shields.io/badge/Contenful-2478CC?style=for-the-badge&logo=contentful&logoColor=white&labelColor=212121)]()
 
 
 <h4>Mobile Development</h4>
