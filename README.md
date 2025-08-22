@@ -87,14 +87,6 @@
 
 </br>
 <h3>
-  🎧 I love music! | Spotify Playing
-</h3>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gprbm0o2x0x7p0twdf789xq5f&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-now-playing-v-kurama7u7v.vercel.app/)
-
-
-</br>
-<h3>
   ⚡️ Github Stats
 </h3>
 
